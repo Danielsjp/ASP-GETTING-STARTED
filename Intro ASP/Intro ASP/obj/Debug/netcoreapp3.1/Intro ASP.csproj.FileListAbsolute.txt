@@ -1,0 +1,20 @@
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\Intro ASP.exe
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\Intro ASP.deps.json
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\Intro ASP.runtimeconfig.json
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\Intro ASP.runtimeconfig.dev.json
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\Intro ASP.dll
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\bin\Debug\netcoreapp3.1\Intro ASP.pdb
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.csprojAssemblyReference.cache
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.AssemblyInfoInputs.cache
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.AssemblyInfo.cs
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.csproj.CoreCompileInputs.cache
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.RazorTargetAssemblyInfo.cache
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\staticwebassets\Intro ASP.StaticWebAssets.Manifest.cache
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\staticwebassets\Intro ASP.StaticWebAssets.xml
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.dll
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.pdb
+D:\GIT\ASP-GETTING-STARTED\Intro ASP\Intro ASP\obj\Debug\netcoreapp3.1\Intro ASP.genruntimeconfig.cache
