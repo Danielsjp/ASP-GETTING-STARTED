@@ -2,7 +2,7 @@ using System;
 
 namespace Intro_ASP
 {
-    public class WeatherForecast
+    public class WeatherForecast 
     {
         public DateTime Date { get; set; }
 
