@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using Intro_ASP.Models;
-using TodoApi.Models;
+
 
 
 namespace Intro_ASP

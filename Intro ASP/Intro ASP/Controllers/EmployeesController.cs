@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Intro_ASP.Models;
-using TodoApi.Models;
+using Microsoft.CodeAnalysis.Host;
 
 namespace Intro_ASP.Controllers
 {
@@ -19,6 +19,7 @@ namespace Intro_ASP.Controllers
         public EmployeesController(TodoContext context)
         {
             _context = context;
+           
         }
 
         // GET: api/Employees
@@ -26,6 +27,7 @@ namespace Intro_ASP.Controllers
         public async Task<ActionResult<IEnumerable<Employee>>> GetTodoItems()
         {
             return await _context.TodoItems.ToListAsync();
+          
         }
 
         // GET: api/Employees/5
@@ -40,6 +42,7 @@ namespace Intro_ASP.Controllers
             }
 
             return employee;
+
         }
 
         // PUT: api/Employees/5
@@ -83,7 +86,10 @@ namespace Intro_ASP.Controllers
             _context.TodoItems.Add(employee);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetEmployee", new { id = employee.Id }, employee);
+            
+            return CreatedAtAction(nameof(GetEmployee), new { id = employee.Id }, employee);
+
+            
         }
 
         // DELETE: api/Employees/5
@@ -106,5 +112,7 @@ namespace Intro_ASP.Controllers
         {
             return _context.TodoItems.Any(e => e.Id == id);
         }
+
+        
     }
 }

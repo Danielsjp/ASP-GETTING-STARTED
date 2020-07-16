@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Intro_ASP.Models;
 
-namespace TodoApi.Models
+namespace Intro_ASP.Models
 {
     public class TodoContext : DbContext
     {
@@ -9,7 +9,9 @@ namespace TodoApi.Models
             : base(options)
         {
         }
-
-        public DbSet<Employee> TodoItems { get; set; }
+        public DbSet<Employee> TodoItems {get; set;}
+        
     }
+
+   
 }
